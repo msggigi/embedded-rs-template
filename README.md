@@ -83,3 +83,8 @@ cargo add dht-pio
 ```
 
 #### BME280
+
+TODO
+
+# Credits
+Most of this template is inspired by [@The Rust Bits](https://www.youtube.com/@therustybits) Youtube Video [Embedded Rust setup explained](https://www.youtube.com/watch?v=TOAynddiu5M)
